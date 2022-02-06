@@ -1,0 +1,8 @@
+DivisionID,DepartmentID,DepartmentName,,
+1,100,Accounting,,
+1,200,Sales,,
+1,300,Research,,
+2,100,Sales,,
+2,200,Accounting,,
+2,300,Research,,
+3,100,Administration,,
